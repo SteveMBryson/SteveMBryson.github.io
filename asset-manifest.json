@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/SteveMBryson.github.io/static/css/main.c71f345a.chunk.css",
+    "main.js": "/SteveMBryson.github.io/static/js/main.69e531ab.chunk.js",
+    "main.js.map": "/SteveMBryson.github.io/static/js/main.69e531ab.chunk.js.map",
+    "runtime-main.js": "/SteveMBryson.github.io/static/js/runtime-main.b32c3d04.js",
+    "runtime-main.js.map": "/SteveMBryson.github.io/static/js/runtime-main.b32c3d04.js.map",
+    "static/js/2.832c22ce.chunk.js": "/SteveMBryson.github.io/static/js/2.832c22ce.chunk.js",
+    "static/js/2.832c22ce.chunk.js.map": "/SteveMBryson.github.io/static/js/2.832c22ce.chunk.js.map",
+    "index.html": "/SteveMBryson.github.io/index.html",
+    "precache-manifest.d9d3e42dbe954a0990e6181326d23644.js": "/SteveMBryson.github.io/precache-manifest.d9d3e42dbe954a0990e6181326d23644.js",
+    "service-worker.js": "/SteveMBryson.github.io/service-worker.js",
+    "static/css/main.c71f345a.chunk.css.map": "/SteveMBryson.github.io/static/css/main.c71f345a.chunk.css.map",
+    "static/js/2.832c22ce.chunk.js.LICENSE": "/SteveMBryson.github.io/static/js/2.832c22ce.chunk.js.LICENSE",
+    "static/media/style.scss": "/SteveMBryson.github.io/static/media/fa-solid-900.e4506c4b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b32c3d04.js",
+    "static/js/2.832c22ce.chunk.js",
+    "static/css/main.c71f345a.chunk.css",
+    "static/js/main.69e531ab.chunk.js"
+  ]
+}
